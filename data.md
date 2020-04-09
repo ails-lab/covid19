@@ -36,6 +36,10 @@ title: Datasets
 - [COVID-19 CT Segmentation Dataset](http://medicalsegmentation.com/covid19/)
 - [RSNA COVID-19 Resources](https://www.rsna.org/covid-19)
 
+#### Libraries
+
+- [lungmask - Automated lung segmentation in CT under presence of severe pathologies](https://github.com/JoHof/lungmask)
+
 #### Lung - Chest - Pneumonia Datasets
 
 - [NIH Clinical Center Chest X-ray Datasets](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
@@ -47,7 +51,3 @@ title: Datasets
 
 - [Google Cloud COVID-19 Public Datasets](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-dataset-list?pli=1)
 - [C3.ai COVID-19 Data Lake](https://c3.ai/covid/)
-
-### Hackathons
-
-- [#HackCoronaGreece](https://hackcorona.world/)
