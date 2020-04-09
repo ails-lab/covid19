@@ -3,7 +3,7 @@ layout: post
 title: HackCoronaGreece
 ---
 
-[#HackCoronaGreece](https://hackcorona.world/){:target="_blank"}, an online hackathon with a nice listing of COVID-19 resources 
+#HackCoronaGreece, is an online hackathon with a nice listing of COVID-19 resources 
 
 <img src="https://hackcorona.world/wp-content/uploads/2020/04/Group-191.png" style="zoom:50%;" />
 

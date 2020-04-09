@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Datasets
+permalink: /data
 ---
 ## Datasets and Resources
 

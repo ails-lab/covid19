@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
+- cs708.md
 - data.md
 - about.markdown
 
