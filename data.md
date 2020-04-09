@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data
+title: Datasets
 ---
 ## Datasets and Resources
 
@@ -34,18 +34,19 @@ title: Data
 
 - [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset)
 - [COVID-19 CT Segmentation Dataset](http://medicalsegmentation.com/covid19/)
+- [RSNA COVID-19 Resources](https://www.rsna.org/covid-19)
 
 #### Lung - Chest - Pneumonia Datasets
 
 - [NIH Clinical Center Chest X-ray Datasets](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 - [RSNA Pneumonia Detection Challenge (2018)](https://www.rsna.org/en/education/ai-resources-and-training/ai-image-challenge/RSNA-Pneumonia-Detection-Challenge-2018)
-- [LUng Nodule Analysis 2016](https://luna16.grand-challenge.org/Data/)
+- [LUng Nodule Analysis 2016 (LUNA)](https://luna16.grand-challenge.org/Data/)
 - [LNDb: Lung Nodule Database](https://lndb.grand-challenge.org/Data/)
 
 ### Dataset Collections
 
-- [C3.ai COVID-19 Data Lake](https://c3.ai/covid/)
 - [Google Cloud COVID-19 Public Datasets](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-dataset-list?pli=1)
+- [C3.ai COVID-19 Data Lake](https://c3.ai/covid/)
 
 ### Hackathons
 
