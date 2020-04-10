@@ -22,7 +22,7 @@ title: AILS COVID-19
 email: covid19@ails.ece.ntua.gr
 description: >- # this means to ignore newlines until "baseurl:"
   News and resources related to the ongoing research on COVID-19 
-  at the Artificial Intelligence and Learning Systems Laboratory.
+  at the Artificial Intelligence and Learning Systems Laboratory
 baseurl: "/covid19" # the subpath of your site, e.g. /blog
 url: "https://ails-lab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AILS_Covid19
@@ -34,9 +34,10 @@ plugins:
   - jekyll-feed
 
 header_pages:
+#- blog.md
 - cs708.md
 - data.md
-- about.markdown
+#- about.markdown
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -45,6 +46,7 @@ minima:
 
 show_excerpts: true
 excerpt_separator: "\n\n"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

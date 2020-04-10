@@ -37,16 +37,16 @@ permalink: /data
 - [COVID-19 CT Segmentation Dataset](http://medicalsegmentation.com/covid19/)
 - [RSNA COVID-19 Resources](https://www.rsna.org/covid-19)
 
-#### Libraries
-
-- [lungmask - Automated lung segmentation in CT under presence of severe pathologies](https://github.com/JoHof/lungmask)
-
 #### Lung - Chest - Pneumonia Datasets
 
 - [NIH Clinical Center Chest X-ray Datasets](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community)
 - [RSNA Pneumonia Detection Challenge (2018)](https://www.rsna.org/en/education/ai-resources-and-training/ai-image-challenge/RSNA-Pneumonia-Detection-Challenge-2018)
 - [LUng Nodule Analysis 2016 (LUNA)](https://luna16.grand-challenge.org/Data/)
 - [LNDb: Lung Nodule Database](https://lndb.grand-challenge.org/Data/)
+
+#### Libraries
+
+- [lungmask - Automated lung segmentation in CT under presence of severe pathologies](https://github.com/JoHof/lungmask)
 
 ### Dataset Collections
 
