@@ -10,6 +10,6 @@ News and resources related to the ongoing research on COVID-19 at the [Artificia
 
 The AILS lab created this site initially as a data repository for the postgraduate course ["Advanced Data Science and Data Analytics" (CS708)]({{site.url | append: site.baseurl | append: "/cs708"}}). In the current academic year, the course focuses exclusively on COVID-19. Please browse our related [Datasets and Resources]({{site.url | append: site.baseurl | append: "/data"}}) page.
 
-In the same time, numerous other AILS research teams are pursuing COVID-19 projects. Therefore, the site aims to become a hub for publishing results and news of all AILS activity regarding COVID-19.
+At the same time, numerous other AILS research teams are pursuing COVID-19 projects. Therefore, the site aims to become a hub for publishing results and news of all AILS activity regarding COVID-19.
 
 Please feel free to [contact us](mailto:covid19@ails.ece.ntua.gr) to include your research outcomes.
