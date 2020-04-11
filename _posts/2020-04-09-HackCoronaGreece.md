@@ -2,14 +2,14 @@
 layout: post
 title: HackCoronaGreece
 ---
+#HackCoronaGreece, is an online hackathon with a nice listing of COVID-19 resources
 
-#HackCoronaGreece, is an online hackathon with a nice listing of COVID-19 resources 
 
 <img src="https://hackcorona.world/wp-content/uploads/2020/04/Group-191.png" style="zoom:50%;" />
+<meta name="twitter:image" content="https://hackcorona.world/wp-content/uploads/2020/04/Group-191.png" />
+#HackCoronaGreece, an online hackathon supported by the Ministry of Digital Governance, the country’s main research and academic institutions as well as collective health and technology stakeholders. The hackathon kicks off with an open application for participants and will conclude on Sunday, April 12th.
 
-#HackCoronaGreece, an online hackathon supported by the Ministry of Digital Governance, the country’s main research and academic institutions as well as collective health and technology stakeholders. The hackathon kicks off with an open application for participants and will conclude on Sunday, April 12th. 
-
-HackCoronaGreece aims at collecting and accelerating the implementation of novel solutions for tackling the COVID-19 pandemic in the following areas – healthcare, public administration, data analytics and more. 
+HackCoronaGreece aims at collecting and accelerating the implementation of novel solutions for tackling the COVID-19 pandemic in the following areas – healthcare, public administration, data analytics and more.
 
 Challenges
 
