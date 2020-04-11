@@ -5,6 +5,7 @@
 layout: home
 list_title: "News"
 ---
+![image]({{"/assets/images/ails_logo_text_bottom_small.png" | prepend: site.baseurl}})
 
 News and resources related to the ongoing research on COVID-19 at the [Artificial Intelligence and Learning Systems Laboratory](https://www.ails.ece.ntua.gr/){:target="_blank"} (AILS) of the [ECE School](https://www.ece.ntua.gr/en){:target="_blank"}, [NTUA](https://www.ntua.gr/en/){:target="_blank"}.
 
