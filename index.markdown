@@ -5,7 +5,7 @@
 layout: home
 list_title: "News"
 ---
-<img src="{{"/assets/images/ails_logo_text_bottom_small.png" | prepend: site.baseurl}}" width="60%" />
+<img src="{{"/assets/images/ails_logo_text_bottom_small.png" | prepend: site.baseurl}}" width="55%" />
 
 
 
