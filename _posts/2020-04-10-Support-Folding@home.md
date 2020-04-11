@@ -11,7 +11,7 @@ Put your spare CPU/GPU resources to work from home against SARS-CoV-2 and join t
 If you install the fah client and join a project, it runs in the background and uses your spare CPU or GPU power. This way, your PC contributes its computing power along with hundreds of thousands of other PCs to run specific protein folding simulations.
 
 ![image]({{"/assets/images/folding.gif" | prepend: site.baseurl}})
-<meta name="twitter:image" content="{{"/assets/images/folding.gif" | prepend: site.baseurl}}" />
+<meta name="twitter:image" content="{{"/assets/images/folding.jpg" | prepend: site.baseurl}}" />
 The software has previously been used to help find cures to cancer, Parkinson's, Huntington's, influenza, and many other diseases. Now, fah is helping scientists understand the structure of the SARS-CoV-2 virus that causes COVID-19.
 
 Folding@home [recently announced](https://www.anandtech.com/show/15661/folding-at-home-reaches-exascale-1000000000000000000-operations-per-second-for-covid-19) that, due to the enthusiastic response to their COVID-19 initiative, the cumulative compute performance of active CPUs and GPUs (which have returned Work Units within the last 50 days) participating in fah exceeds [2 ExaFLOPS](https://stats.foldingathome.org/os), which is 10 times faster than the performance of [IBM's Summit](https://en.wikipedia.org/wiki/Summit_(supercomputer)) supercomputer, benchmarked for 148.6 PetaFLOPS (figures updated).
