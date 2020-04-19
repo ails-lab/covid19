@@ -32,6 +32,7 @@ github_username:  ails-lab/covid19
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gist
 
 header_pages:
 #- blog.md
