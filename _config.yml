@@ -35,6 +35,7 @@ plugins:
 
 header_pages:
 #- blog.md
+- blog.md
 - cs708.md
 - data.md
 #- about.markdown
