@@ -18,3 +18,5 @@ At the same time, numerous other AILS research teams are pursuing COVID-19 proje
 Please browse our [Datasets and Resources]({{site.url | append: site.baseurl | append: "/data"}}) page.
 
 Please feel free to [contact us](mailto:covid19@ails.ece.ntua.gr) to include your research outcomes.
+
+Follow us on [Twitter](https://twitter.com/AILS_Covid19){:target="_blank"} for the latest news on COVID-19 Machine Learning research from AILS, Greece, and the EU.
