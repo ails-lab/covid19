@@ -1,6 +1,5 @@
 ---
 layout: post-list
-title: News
-list_title: News
+title: Blog
+# list_title: News
 ---
-
