@@ -3,5 +3,6 @@ _old_posts
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.tweet-cache
 vendor
 minima-2.5.1
