@@ -20,5 +20,7 @@ Please feel free to [contact us](mailto:covid19@ails.ece.ntua.gr) to include you
 Follow us on [Twitter](https://twitter.com/AILS_Covid19){:target="_blank"} for the latest news on COVID-19 machine learning research from AILS, Greece, and the EU.
 
 <div class="jekyll-twitter-plugin" align="center">
-    {% twitter https://twitter.com/AILS_Covid19 maxheight=1000 maxwidth=500 %}
+    <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-height="1000" href="https://twitter.com/AILS_Covid19?ref_src=twsrc%5Etfw">Tweets by AILS_Covid19</a>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
