@@ -54,7 +54,8 @@ permalink: /data
 
 - [lungmask - Automated lung segmentation in CT under presence of severe pathologies](https://github.com/JoHof/lungmask){:target="_blank"}
 
-### Dataset Collections
+### Dataset & Resource Collections
 
 - [Google Cloud COVID-19 Public Datasets](https://console.cloud.google.com/marketplace/details/bigquery-public-datasets/covid19-dataset-list?pli=1){:target="_blank"}
 - [C3.ai COVID-19 Data Lake](https://c3.ai/covid/){:target="_blank"}
+- [National Documentation Center (EKT) COVID-19 website (Greek only)](http://www.ekt.gr/el/covid-19){:target="_blank"}
